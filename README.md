@@ -2,13 +2,13 @@
 
 ### 💻 Current Projects
 
-Currently focused on Minecraft-related proprietary projects, including custom server plugins, gameplay optimization, and multiplayer development. My work is shaped by a unique perspective due to my neurodivergent traits.
+Focused on Minecraft-related proprietary projects, including custom server plugins, gameplay optimization, and multiplayer development. My work is driven by a deep focus on technical challenges and problem-solving.
 
 ### 🧑‍💻 Skills and Expertise
 
-* Familiar with PocketMjne-MP modding, plugin development, and backend performance.
-* Strong problem-solving skills, honed through personal experiences with ADHD and Autism Spectrum Disorder (ASD).
-
+* Experienced in PocketMjne-MP modding, plugin development, and backend performance optimization.
+* Strong attention to detail and a problem-solving mindset, with a focus on long-term goals and efficient execution.
+ 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Blackjack200&theme=dark&count_private=true&include_all_commits=true)](#)
 
 [![TOP LANGUAGE](https://github-readme-stats.vercel.app/api/top-langs/?username=Blackjack200&layout=compact&theme=dark&langs_count=10&exclude_repo=minecraft_client_1_16_2,minecraft_client_1_20_1)](#)
@@ -19,9 +19,9 @@ Based in China (GMT/UTC+8).
 
 ### 🧠 Personal Background
 
-* Diagnosed with ADHD and traits of ASD, which affect my focus, social interactions, and sensory sensitivities. These traits allow me to concentrate deeply on technical challenges, especially in coding and debugging.
-* ADHD helps me minimize distractions, fostering a strong focus on long-term goals and problem-solving.
-* I thrive in environments where I can focus independently, though I am comfortable collaborating when needed.
+* I approach work with a highly focused mindset, enabling me to dive deeply into complex problems and produce high-quality results.
+* Comfortable with both independent and collaborative work, I thrive when given the freedom to focus on technical challenges that require concentration.
+* _<del>Diagnosed with ADHD and traits of ASD, which affect my focus, social interactions, and sensory sensitivities. </del>_
 
 ### 🎮 Gaming Interests
 
