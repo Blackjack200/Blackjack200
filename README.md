@@ -21,7 +21,6 @@ Based in China (GMT/UTC+8).
 
 * I approach work with a highly focused mindset, enabling me to dive deeply into complex problems and produce high-quality results.
 * Comfortable with both independent and collaborative work, I thrive when given the freedom to focus on technical challenges that require concentration.
-* _<del>I have a unique cognitive style shaped by ADHD and traits of ASD, which helps me focus deeply on complex tasks and problem-solving while working independently.</del>_
 
 ### 🎮 Gaming Interests
 
