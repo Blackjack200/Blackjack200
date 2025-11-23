@@ -1,28 +1,45 @@
-## Hi, This is Blackjack
+## Hi, I'm Blackjack 👋
 
-### 💻 Current Projects
+A student developer passionate about technology and creation, currently exploring the intersection of robotics and game development.
 
-Focused on Minecraft-related proprietary projects, including custom server plugins, gameplay optimization, and multiplayer development. My work is driven by a deep focus on technical challenges and problem-solving.
+### 🛠️ Current Projects
 
-### 🧑‍💻 Skills and Expertise
+Experimenting with different tech stacks to solve interesting problems:
 
-* Experienced in PocketMjne-MP modding, plugin development, and backend performance optimization.
-* Strong attention to detail and a problem-solving mindset, with a focus on long-term goals and efficient execution.
- 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Blackjack200&theme=dark&count_private=true&include_all_commits=true)](#)
+- [**Daedalus**](https://github.com/Blackjack200/at_vision_simulator): A Rust + Bevy based RoboMaster vision algorithm verification simulator for testing robot vision algorithms in virtual environments
+- [**Ouranos**](https://github.com/Blackjack200/Ouranos): Multi-protocol proxy for Minecraft Bedrock Edition, addressing compatibility issues across different client versions
+- **Minecraft Ecosystem**: Exploring server plugins and gameplay mechanics optimization
 
-[![TOP LANGUAGE](https://github-readme-stats.vercel.app/api/top-langs/?username=Blackjack200&layout=compact&theme=dark&langs_count=10&exclude_repo=minecraft_client_1_16_2,minecraft_client_1_20_1)](#)
+### 📚 Learning Focus
 
-### 🌏 Location
+- **Robotics Simulation**: RoboMaster vision algorithm verification, ROS2 integration, Bevy engine
+- **Game Development**: PocketMine-MP mod development, backend performance optimization
+- **Network Programming**: Multi-protocol proxies, network architecture design
+- **Problem Solving**: Approaching technical challenges from different perspectives
 
-Based in China (GMT/UTC+8).
+### 📊 GitHub Stats
 
-### 🧠 Personal Background
+[![TOP LANGUAGE](https://github-readme-stats.vercel.app/api/top-langs/?username=Blackjack200&layout=donut-vertical&theme=dark&langs_count=8&exclude_repo=minecraft_client_1_16_2,minecraft_client_1_20_1)](#) 
 
-* I approach work with a highly focused mindset, enabling me to dive deeply into complex problems and produce high-quality results.
-* Comfortable with both independent and collaborative work, I thrive when given the freedom to focus on technical challenges that require concentration.
 
-### 🎮 Gaming Interests
+### 🌍 Location
 
-A lifelong Minecraft enthusiast, passionate about game mechanics, modding.
+China (GMT/UTC+8)
 
+### 💭 About Me
+
+- Enjoy deep diving into technical problems and the process of building things from scratch
+- Continuously learning and growing through both independent work and team collaboration
+- Believe in the importance of solid fundamentals and continuous learning
+- Still figuring out my optimal path for technical growth
+
+### 🎯 Technical Interests
+
+- Minecraft Bedrock Edition server development and architecture
+- RoboMaster robotics competition technology, particularly vision algorithms
+- Multi-protocol network programming
+- System architecture and performance optimization
+
+---
+
+Still in the learning phase - there's likely plenty of room for improvement in my code. If you're interested in my projects, I'd welcome your suggestions and feedback. Let's learn and grow together!
