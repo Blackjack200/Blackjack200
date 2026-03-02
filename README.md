@@ -19,7 +19,7 @@ Experimenting with different tech stacks to solve interesting problems:
 
 ### 📊 GitHub Stats
 
-[![TOP LANGUAGE](https://github-readme-stats.vercel.app/api/top-langs/?username=Blackjack200&layout=donut-vertical&theme=dark&langs_count=8&exclude_repo=minecraft_client_1_16_2,minecraft_client_1_20_1)](#) 
+[![TOP LANGUAGE](https://github-stats-extended.vercel.app/api/top-langs/?username=Blackjack200&layout=donut-vertical&theme=dark&langs_count=8&exclude_repo=minecraft_client_1_16_2,minecraft_client_1_20_1)](#) 
 
 
 ### 🌍 Location
